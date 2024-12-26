@@ -1,7 +1,7 @@
 /* Style for the grid-container */
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Dynamic grid columns */
+  grid-template-columns: repeat(auto-fit, minmax(233.5px, 1fr)); /* Dynamic grid columns */
   gap: 10px; /* Space between grid items */
   padding: 10px; /* Padding around the container */
 }
