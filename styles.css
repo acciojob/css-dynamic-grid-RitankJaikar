@@ -9,6 +9,7 @@
 /* Style for individual grid-item */
 .grid-item {
   background-color: lightgray;
+  width: 200px;
   height: 150px;
   border-radius: 5px;
   font-size: 40px;
